@@ -1,0 +1,175 @@
+﻿{"monsters" : [
+    {
+        "name":  "犬",
+        "hp":  "500",
+        "ap":  "100",
+        "dp":  "200",
+        "speed":  "20",
+        "emoji":  "🐕",
+        "name_id":  "NAME_DOG"
+    },
+    {
+        "name":  "猫",
+        "hp":  "1000",
+        "ap":  "200",
+        "dp":  "100",
+        "speed":  "50",
+        "emoji":  "🐈",
+        "name_id":  "NAME_CAT"
+    },
+    {
+        "name":  "ライオン",
+        "hp":  "2000",
+        "ap":  "1000",
+        "dp":  "25",
+        "speed":  "100",
+        "emoji":  "🦁",
+        "name_id":  "NAME_LION"
+    },
+    {
+        "name":  "ネズミ",
+        "hp":  "500",
+        "ap":  "50",
+        "dp":  "10",
+        "speed":  "200",
+        "emoji":  "🐀",
+        "name_id":  "NAME_MOUSE"
+    },
+    {
+        "name":  "ウシ",
+        "hp":  "1000",
+        "ap":  "100",
+        "dp":  "500",
+        "speed":  "50",
+        "emoji":  "🐄",
+        "name_id":  "NAME_COW"
+    },
+    {
+        "name":  "ドラゴン",
+        "hp":  "3000",
+        "ap":  "200",
+        "dp":  "100",
+        "speed":  "100",
+        "emoji":  "🐉",
+        "name_id":  "NAME_DRAGON"
+    }
+],"texts" : [
+    {
+        "id":  "TXT_START_BTN",
+        "japanese":  "開始",
+        "english":  "START",
+        "chinese":  "开始"
+    },
+    {
+        "id":  "TXT_OPTION_BTN",
+        "japanese":  "設定",
+        "english":  "settings",
+        "chinese":  "环境"
+    },
+    {
+        "id":  "TXT_FINISH_BTN",
+        "japanese":  "終了",
+        "english":  "Finish",
+        "chinese":  "结尾"
+    },
+    {
+        "id":  "TXT_ATTACK",
+        "japanese":  "攻撃力",
+        "english":  "Attack",
+        "chinese":  "攻击力"
+    },
+    {
+        "id":  "TXT_DEFENCE",
+        "japanese":  "防御力",
+        "english":  "Defence",
+        "chinese":  "防御"
+    },
+    {
+        "id":  "TXT_TITLE",
+        "japanese":  "計算バトル",
+        "english":  "Calculation Battle",
+        "chinese":  "计算战"
+    },
+    {
+        "id":  "TXT_HP",
+        "japanese":  "体力",
+        "english":  "HP",
+        "chinese":  "体力"
+    },
+    {
+        "id":  "TXT_SPEED",
+        "japanese":  "スピード",
+        "english":  "Speed",
+        "chinese":  "速度"
+    },
+    {
+        "id":  "NAME_DOG",
+        "japanese":  "犬",
+        "english":  "Dog",
+        "chinese":  "狗"
+    },
+    {
+        "id":  "NAME_CAT",
+        "japanese":  "猫",
+        "english":  "Cat",
+        "chinese":  "猫"
+    },
+    {
+        "id":  "NAME_LION",
+        "japanese":  "ライオン",
+        "english":  "Lion",
+        "chinese":  "狮⼦"
+    },
+    {
+        "id":  "NAME_MOUSE",
+        "japanese":  "ネズミ",
+        "english":  "Mouse",
+        "chinese":  "老鼠"
+    },
+    {
+        "id":  "NAME_COW",
+        "japanese":  "ウシ",
+        "english":  "Cow",
+        "chinese":  "⽜"
+    },
+    {
+        "id":  "NAME_DRAGON",
+        "japanese":  "ドラゴン",
+        "english":  "Drageon",
+        "chinese":  "龙"
+    },
+    {
+        "id":  "TXT_LANGUAGE",
+        "japanese":  "日本語",
+        "english":  "English",
+        "chinese":  "中文"
+    },
+    {
+        "id":  "TXT_CHANGE",
+        "japanese":  "敵を変更",
+        "english":  "Change Enemy",
+        "chinese":  "改变敌人"
+    },
+    {
+        "id":  "TXT_INPUT",
+        "japanese":  "入力値",
+        "english":  "Input",
+        "chinese":  "输入值"
+    },
+    {
+        "id":  "TXT_HOW_ANSWER",
+        "japanese":  "スペースキーで回答",
+        "english":  "Press Space Key to answer",
+        "chinese":  "按空格键接听"
+    },
+    {
+        "id":  "TXT_RETURN_BTN",
+        "japanese":  "タイトルに戻る",
+        "english":  "Return to title",
+        "chinese":  "返回标题"
+    }
+],"player" : {
+    "hp":  "1000",
+    "ap":  "100",
+    "dp":  "50"
+}}

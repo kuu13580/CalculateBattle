@@ -1,0 +1,34 @@
+namespace Data;
+
+table Monster {
+	name:string;
+	hp:int;
+	ap:int;
+	dp:int;
+	speed:int;
+	emoji:string;
+	name_id:string;
+}
+
+table Text {
+	id:string;
+	japanese:string;
+	english:string;
+	chinese:string;
+}
+
+table Player{
+	hp:int;
+	ap:int;
+	dp:int;
+}
+
+table Data_list {
+	monsters:[Monster];
+	texts:[Text];
+	player:Player;
+}
+
+enum Language : short { Japanese, English, Chinese}
+
+root_type Data_list;
